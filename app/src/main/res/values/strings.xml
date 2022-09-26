@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ch4ChallangeHabioo</string>
+    <string name="text_paper">Kertas</string>
+    <string name="text_scissors">Gunting</string>
+    <string name="text_rock">Batu</string>
+    <string name="player_1">Pemain 1</string>
+    <string name="todo">TODO</string>
+    <string name="text_vs">VS</string>
+    <string name="on_todo">TODO</string>
+    <string name="in_todo">TODO</string>
+    <string name="com">COM</string>
+    <string name="comwin">Pemain 2 MENANG!</string>
+    <string name="draw">DRAW</string>
+    <string name="player1win">Pemain 1 Menang!</string>
+
+
+
+</resources>
